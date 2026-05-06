@@ -1,5 +1,3 @@
-# ai-video-production-lenon
-AI video production workflow using imageFX &amp; Kling
 # AI Video Production Workflow - LENON Project
 
 ## Overview
